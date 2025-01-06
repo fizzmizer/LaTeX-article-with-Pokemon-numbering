@@ -6,4 +6,4 @@
 > Fair use, only for fun for a local application.
 
 ## List of different possible icons
-All the 151 first Pokémon. That should be enough.
+All the ~~151~~807 first Pokémon. That should be enough.
