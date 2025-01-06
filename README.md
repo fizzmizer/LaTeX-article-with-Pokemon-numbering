@@ -15,7 +15,7 @@ Experiment to have a LaTeX article class which includes a small Pokémon image, 
      ```tex
      \pokemonnumbering
      ```
-   - And don't write a document with more than 151 pages! I was lazy and only include the Pokémon from the first generation!
+   - And don't write a document with more than ~~151~~807 pages!
    - Compile with `pdflatex`, `xelatex` or `luatex` (it must support PNG images).
 
 ## Demo
